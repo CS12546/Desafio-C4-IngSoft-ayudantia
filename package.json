@@ -1,5 +1,5 @@
 {
-  "name": "crud-3",
+  "name": "crud-reto4-ingsoft",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "dev": "nodemon src/index.js"
   },
   "keywords": [],
-  "author": "Diego Salazar",
+  "author": "Cristopher Andrés Sáez Araneda",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.4.5",
